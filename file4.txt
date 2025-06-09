@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is file4 created by me for merge
+=======
+This is file4 created by me in github
+>>>>>>> 678b8bd2da00f943c041b3cace43e6c452ca0730
